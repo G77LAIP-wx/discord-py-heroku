@@ -1,1 +1,12 @@
+SimpleEconomy
 discord.py
+pynacl
+flask
+aiosqlite
+dislevel
+keep_alive
+youtube-dl
+python-dotenv
+datetime
+data
+discord-pretty-help
